@@ -298,6 +298,7 @@ Yulia Lantzberg
 -[Chetna Sharma](https://github.com/chetna0610)
 - [Alan Sosa](https://github.com/Alsosa) **My first contribution**
 - [Ansh Bansal](https://github.com/Anshhb) **Lets get Started!!**
+- [Noah "Goop" Wilk](https://github.com/floopal) **yur**
 - [Prathamesh Shinde](https://github.com/Alsosa) **My first contribution!**
 - [Oliver Lowe](C:\Users\Olive\Documents\FirstGitHub\first-contributions>) **This is my first commit**
 - [Jay Valiaya](https://github.com/jayvaliya) **My firse contribution to open source 🎉**
